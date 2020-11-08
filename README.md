@@ -1,2 +1,0 @@
-# Scrapous
- SLAC HACKATHON PROJECT
